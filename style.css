@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+.body{
+    background-color: #0B0D39;
+}
+.firstbox{
+    color: #FFFFFF;
+    background-color: #1A1C46;
+    word-spacing: 20px;
+    width: 500px;
+    border-radius: 62px;
+    text-align: center;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+}
+.menu{
+    font-size: 14px;
+}
+.for-opacity{
+    opacity: 60%;
+}
+.header{
+    text-align: left;
+    color: #FFFFFF;
+    font: normal normal bold;
+    font-size: 37px;
+    font-family: 'DM Sans', sans-serif;
+}
+.template{
+    color: #356DFF;
+}
+.description{
+    font-size: 15px;
+    opacity: 60%;
+}
+.letsdiscuss{
+    font-size: 15px;
+    background-color: #356DFF;
+    width: 110px;
+    text-align: center;
+    height: 40px;
+    border-radius: 43px 43px 43px 12px;
+    display: flex;
+    justify-content:  center;
+    align-items: center;
+    color: #FFFFFF;
+    border-color: #356DFF;
+}
+.page{
+    padding: 50px;
+}
+.maincontainer{
+    display: flex;
+    flex-direction: column;
+    background-color: #1A1C46;
+    border-radius: 45px;
+    font-family: 'DM Sans', sans-serif;
+    width: 800px
+}
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header2{
+    color: #FFFFFF;
+    font-size: 35px;
+    text-align: right;
+    margin: 30px;
+}
+.template2{
+    color: #356DFF;
+}
+.photoheader1{
+    color: #FFFFFF;
+    font-size: 17px;
+    text-align: center;
+}
+.photoheader2{
+    color: #FFFFFF;
+    font-size: 17px;
+    text-align: center;
+}
+.photoheader3{
+    color: #FFFFFF;
+    font-size: 17px;
+    text-align: center;
+}
+.text1{
+color: #FFFFFF;
+opacity: 60%;
+font-size: 14px;
+text-align: center;
+}
+.logos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.logo1{
+    width: 165px;
+    background-color: #FFFFFF12;
+    border-radius: 50%;
+}
+.logo2{
+    width: 165px;
+    background-color: #FFFFFF12;
+    border-radius: 50%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.logo3{
+    width: 165px;
+    background-color: #FFFFFF12;
+    border-radius: 50%;
+}
